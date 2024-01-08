@@ -1,6 +1,0 @@
-{
-	"runtime": "nodejs20.x",
-	"handler": "..\\..\\..\\..\\..\\..\\..\\Users\\feder\\OneDrive\\Escritorio\\codigo\\tic-tac-toe-svelte\\.svelte-kit\\vercel-tmp\\index.js",
-	"launcherType": "Nodejs",
-	"experimentalResponseStreaming": true
-}
